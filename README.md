@@ -46,4 +46,9 @@ lorem
 - [GIT - Grafikart](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP)
 - [VSCode - ]()
 
+--- 
 
+# LINUX
+
+Il me faut un jour maîtriser l'environnement linux, c'est certain!
+- [training - ]()
