@@ -1,0 +1,9 @@
+[submodule "P2"]
+	path = P2
+	url = git@github.com:achicyr/workout__OC__P2.git
+[submodule "P3"]
+	path = P3
+	url = git@github.com:achicyr/workout__OC__P3.git
+[submodule "P3_"]
+	path = P3_
+	url = https://github.com/achicyr/workout__OC__P3bis
