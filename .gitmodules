@@ -13,3 +13,6 @@
 [submodule "P6"]
 	path = P6
 	url = git@github.com:achicyr/workout__OC__P6.git
+[submodule "P7"]
+	path = P7
+	url = git@github.com:achicyr/workout__OC__P7.git
